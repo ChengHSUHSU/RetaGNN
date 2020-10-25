@@ -1,5 +1,14 @@
 ### RetaGNN: Relational Temporal Attentive Graph NeuralNetworks for Holistic Sequential Recommendatio
 
+
+
+1.How to use the code.
+  python3 train.py
+ 
+2. We will collate our code as soon as possible (Finish it in 2020/10/26.)
+
+
+
 <!--
 **retagnn/RetaGNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
